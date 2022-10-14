@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+form{
+    text-align: center;
+}
+body{
+    display: flex;
+    justify-content: center;
+    background-image: url(../Projeto_pessoal02/futuro2.jpg);
+}
+.tudo{
+    margin-top: 5%;
+    align-items: center;
+    background-color: rgb(0, 0, 0,0.6);
+    width: 40%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+.col{
+    color: white;
+    font-weight: bold;
+}
